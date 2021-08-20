@@ -84,7 +84,7 @@ If you want to do write-behind with an Oracle database:
     ```
 
     {{< note >}}
-You can be more efficient and import only the requirements you need, but rgync is always required and can be combined with one or more of these packages according to your backend database:
+You can be more efficient and import only the requirements you need, but rgsync is always required and can be combined with one or more of these packages according to your backend database:
 
 - redisgears-requirement-v1-snowflake-sqlalchemy-linux-\<os>-x64.zip
 - redisgears-requirement-v1-PyMySQL-linux-\<os>-x64.zip
